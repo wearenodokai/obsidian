@@ -1,0 +1,1 @@
+# The easiest way to setup Obsidian Git to backup notes - [Ver Mas](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429)

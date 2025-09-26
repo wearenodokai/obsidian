@@ -1,0 +1,1 @@
+# Cheat Sheet - [Ver Mas](https://www.notion.so/Cheat-Sheet-27769984dc3680c4a9fad8fdb7bfdad0)
